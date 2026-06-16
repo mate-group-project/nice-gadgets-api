@@ -20362,139 +20362,284 @@
   "cart": [],
   "stores": [
     {
-      "id": 1,
-      "name": "Nice Gadgets Kyiv",
-      "address": "Khreshchatyk Street 1, Kyiv",
-      "coordinates": {
-        "lat": 50.4501,
-        "lng": 30.5234
-      }
+      "id": "en",
+      "data": [
+        {
+          "id": 1,
+          "name": "Nice Gadgets Kyiv",
+          "address": "Khreshchatyk Street 1, Kyiv",
+          "coordinates": {
+            "lat": 50.4501,
+            "lng": 30.5234
+          }
+        },
+        {
+          "id": 2,
+          "name": "Nice Gadgets Kyiv - Ocean Plaza",
+          "address": "Antonovycha Street 176, Kyiv (Ocean Plaza)",
+          "coordinates": {
+            "lat": 50.4149,
+            "lng": 30.5220
+          }
+        },
+        {
+          "id": 3,
+          "name": "Nice Gadgets Lviv",
+          "address": "Svobody Avenue 1, Lviv",
+          "coordinates": {
+            "lat": 49.8419,
+            "lng": 24.0315
+          }
+        },
+        {
+          "id": 4,
+          "name": "Nice Gadgets Lviv - Forum Lviv",
+          "address": "Pid Dubom Street 7B, Lviv (Forum Lviv)",
+          "coordinates": {
+            "lat": 49.8496,
+            "lng": 24.0220
+          }
+        },
+        {
+          "id": 5,
+          "name": "Nice Gadgets Kharkiv",
+          "address": "Sumska Street 72, Kharkiv",
+          "coordinates": {
+            "lat": 49.9902,
+            "lng": 36.2304
+          }
+        },
+        {
+          "id": 6,
+          "name": "Nice Gadgets Kharkiv - Naukova",
+          "address": "Nauky Avenue 27, Kharkiv",
+          "coordinates": {
+            "lat": 50.0050,
+            "lng": 36.2256
+          }
+        },
+        {
+          "id": 7,
+          "name": "Nice Gadgets Odesa",
+          "address": "Derybasivska Street 14, Odesa",
+          "coordinates": {
+            "lat": 46.4825,
+            "lng": 30.7233
+          }
+        },
+        {
+          "id": 8,
+          "name": "Nice Gadgets Odesa - Gagarinn Plaza",
+          "address": "Henuezka Street 5, Odesa (Gagarinn Plaza)",
+          "coordinates": {
+            "lat": 46.4306,
+            "lng": 30.7590
+          }
+        },
+        {
+          "id": 9,
+          "name": "Nice Gadgets Dnipro",
+          "address": "Yavornytskoho Avenue 52, Dnipro",
+          "coordinates": {
+            "lat": 48.4647,
+            "lng": 35.0462
+          }
+        },
+        {
+          "id": 10,
+          "name": "Nice Gadgets Dnipro - Most City",
+          "address": "Yavornytskoho Avenue 50, Dnipro (Most City Center)",
+          "coordinates": {
+            "lat": 48.4663,
+            "lng": 35.0418
+          }
+        },
+        {
+          "id": 11,
+          "name": "Nice Gadgets Zaporizhzhia",
+          "address": "Sobornyi Avenue 186, Zaporizhzhia",
+          "coordinates": {
+            "lat": 47.8388,
+            "lng": 35.1396
+          }
+        },
+        {
+          "id": 12,
+          "name": "Nice Gadgets Vinnytsia",
+          "address": "Soborna Street 34, Vinnytsia",
+          "coordinates": {
+            "lat": 49.2328,
+            "lng": 28.4682
+          }
+        },
+        {
+          "id": 13,
+          "name": "Nice Gadgets Poltava",
+          "address": "Sobornosti Street 24, Poltava",
+          "coordinates": {
+            "lat": 49.5883,
+            "lng": 34.5514
+          }
+        },
+        {
+          "id": 14,
+          "name": "Nice Gadgets Chernihiv",
+          "address": "Peremohy Avenue 87, Chernihiv",
+          "coordinates": {
+            "lat": 51.5037,
+            "lng": 31.2946
+          }
+        },
+        {
+          "id": 15,
+          "name": "Nice Gadgets Ivano-Frankivsk",
+          "address": "Nezalezhnosti Street 40, Ivano-Frankivsk",
+          "coordinates": {
+            "lat": 48.9226,
+            "lng": 24.7111
+          }
+        }
+      ]
     },
     {
-      "id": 2,
-      "name": "Nice Gadgets Kyiv - Ocean Plaza",
-      "address": "Antonovycha Street 176, Kyiv (Ocean Plaza)",
-      "coordinates": {
-        "lat": 50.4149,
-        "lng": 30.5220
-      }
-    },
-    {
-      "id": 3,
-      "name": "Nice Gadgets Lviv",
-      "address": "Svobody Avenue 1, Lviv",
-      "coordinates": {
-        "lat": 49.8419,
-        "lng": 24.0315
-      }
-    },
-    {
-      "id": 4,
-      "name": "Nice Gadgets Lviv - Forum Lviv",
-      "address": "Pid Dubom Street 7B, Lviv (Forum Lviv)",
-      "coordinates": {
-        "lat": 49.8496,
-        "lng": 24.0220
-      }
-    },
-    {
-      "id": 5,
-      "name": "Nice Gadgets Kharkiv",
-      "address": "Sumska Street 72, Kharkiv",
-      "coordinates": {
-        "lat": 49.9902,
-        "lng": 36.2304
-      }
-    },
-    {
-      "id": 6,
-      "name": "Nice Gadgets Kharkiv - Naukova",
-      "address": "Nauky Avenue 27, Kharkiv",
-      "coordinates": {
-        "lat": 50.0050,
-        "lng": 36.2256
-      }
-    },
-    {
-      "id": 7,
-      "name": "Nice Gadgets Odesa",
-      "address": "Derybasivska Street 14, Odesa",
-      "coordinates": {
-        "lat": 46.4825,
-        "lng": 30.7233
-      }
-    },
-    {
-      "id": 8,
-      "name": "Nice Gadgets Odesa - Gagarinn Plaza",
-      "address": "Henuezka Street 5, Odesa (Gagarinn Plaza)",
-      "coordinates": {
-        "lat": 46.4306,
-        "lng": 30.7590
-      }
-    },
-    {
-      "id": 9,
-      "name": "Nice Gadgets Dnipro",
-      "address": "Yavornytskoho Avenue 52, Dnipro",
-      "coordinates": {
-        "lat": 48.4647,
-        "lng": 35.0462
-      }
-    },
-    {
-      "id": 10,
-      "name": "Nice Gadgets Dnipro - Most City",
-      "address": "Yavornytskoho Avenue 50, Dnipro (Most City Center)",
-      "coordinates": {
-        "lat": 48.4663,
-        "lng": 35.0418
-      }
-    },
-    {
-      "id": 11,
-      "name": "Nice Gadgets Zaporizhzhia",
-      "address": "Sobornyi Avenue 186, Zaporizhzhia",
-      "coordinates": {
-        "lat": 47.8388,
-        "lng": 35.1396
-      }
-    },
-    {
-      "id": 12,
-      "name": "Nice Gadgets Vinnytsia",
-      "address": "Soborna Street 34, Vinnytsia",
-      "coordinates": {
-        "lat": 49.2328,
-        "lng": 28.4682
-      }
-    },
-    {
-      "id": 13,
-      "name": "Nice Gadgets Poltava",
-      "address": "Sobornosti Street 24, Poltava",
-      "coordinates": {
-        "lat": 49.5883,
-        "lng": 34.5514
-      }
-    },
-    {
-      "id": 14,
-      "name": "Nice Gadgets Chernihiv",
-      "address": "Peremohy Avenue 87, Chernihiv",
-      "coordinates": {
-        "lat": 51.5037,
-        "lng": 31.2946
-      }
-    },
-    {
-      "id": 15,
-      "name": "Nice Gadgets Ivano-Frankivsk",
-      "address": "Nezalezhnosti Street 40, Ivano-Frankivsk",
-      "coordinates": {
-        "lat": 48.9226,
-        "lng": 24.7111
-      }
+      "id": "uk",
+      "data": [
+        {
+          "id": "1",
+          "name": "Nice Gadgets Київ",
+          "address": "вулиця Хрещатик, 1, Київ",
+          "coordinates": {
+            "lat": 50.4501,
+            "lng": 30.5234
+          }
+        },
+        {
+          "id": "2",
+          "name": "Nice Gadgets Київ — Ocean Plaza",
+          "address": "вулиця Антоновича, 176, Київ (Ocean Plaza)",
+          "coordinates": {
+            "lat": 50.4149,
+            "lng": 30.522
+          }
+        },
+        {
+          "id": "3",
+          "name": "Nice Gadgets Львів",
+          "address": "проспект Свободи, 1, Львів",
+          "coordinates": {
+            "lat": 49.8419,
+            "lng": 24.0315
+          }
+        },
+        {
+          "id": "4",
+          "name": "Nice Gadgets Львів — Forum Lviv",
+          "address": "вулиця Під Дубом, 7Б, Львів (Forum Lviv)",
+          "coordinates": {
+            "lat": 49.8496,
+            "lng": 24.022
+          }
+        },
+        {
+          "id": "5",
+          "name": "Nice Gadgets Харків",
+          "address": "вулиця Сумська, 72, Харків",
+          "coordinates": {
+            "lat": 49.9902,
+            "lng": 36.2304
+          }
+        },
+        {
+          "id": "6",
+          "name": "Nice Gadgets Харків — Наукова",
+          "address": "проспект Науки, 27, Харків",
+          "coordinates": {
+            "lat": 50.005,
+            "lng": 36.2256
+          }
+        },
+        {
+          "id": "7",
+          "name": "Nice Gadgets Одеса",
+          "address": "вулиця Дерибасівська, 14, Одеса",
+          "coordinates": {
+            "lat": 46.4825,
+            "lng": 30.7233
+          }
+        },
+        {
+          "id": "8",
+          "name": "Nice Gadgets Одеса — Gagarinn Plaza",
+          "address": "вулиця Генуезька, 5, Одеса (Gagarinn Plaza)",
+          "coordinates": {
+            "lat": 46.4306,
+            "lng": 30.759
+          }
+        },
+        {
+          "id": "9",
+          "name": "Nice Gadgets Дніпро",
+          "address": "проспект Яворницького, 52, Дніпро",
+          "coordinates": {
+            "lat": 48.4647,
+            "lng": 35.0462
+          }
+        },
+        {
+          "id": "10",
+          "name": "Nice Gadgets Дніпро — Most City",
+          "address": "проспект Яворницького, 50, Дніпро (Most City Center)",
+          "coordinates": {
+            "lat": 48.4663,
+            "lng": 35.0418
+          }
+        },
+        {
+          "id": "11",
+          "name": "Nice Gadgets Запоріжжя",
+          "address": "проспект Соборний, 186, Запоріжжя",
+          "coordinates": {
+            "lat": 47.8388,
+            "lng": 35.1396
+          }
+        },
+        {
+          "id": "12",
+          "name": "Nice Gadgets Вінниця",
+          "address": "вулиця Соборна, 34, Вінниця",
+          "coordinates": {
+            "lat": 49.2328,
+            "lng": 28.4682
+          }
+        },
+        {
+          "id": "13",
+          "name": "Nice Gadgets Полтава",
+          "address": "вулиця Соборності, 24, Полтава",
+          "coordinates": {
+            "lat": 49.5883,
+            "lng": 34.5514
+          }
+        },
+        {
+          "id": "14",
+          "name": "Nice Gadgets Чернігів",
+          "address": "проспект Перемоги, 87, Чернігів",
+          "coordinates": {
+            "lat": 51.5037,
+            "lng": 31.2946
+          }
+        },
+        {
+          "id": "15",
+          "name": "Nice Gadgets Івано-Франківськ",
+          "address": "вулиця Незалежності, 40, Івано-Франківськ",
+          "coordinates": {
+            "lat": 48.9226,
+            "lng": 24.7111
+          }
+        }
+      ]
     }
   ],
   "translations": [
