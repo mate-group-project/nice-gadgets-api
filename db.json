@@ -20359,5 +20359,200 @@
   "users": [],
   "orders": [],
   "favorites": [],
-  "cart": []
+  "cart": [],
+  "stores": [
+    {
+      "id": 1,
+      "name": "Nice Gadgets Kyiv",
+      "address": "Khreshchatyk Street 1, Kyiv",
+      "coordinates": {
+        "lat": 50.4501,
+        "lng": 30.5234
+      }
+    },
+    {
+      "id": 2,
+      "name": "Nice Gadgets Kyiv - Ocean Plaza",
+      "address": "Antonovycha Street 176, Kyiv (Ocean Plaza)",
+      "coordinates": {
+        "lat": 50.4149,
+        "lng": 30.5220
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nice Gadgets Lviv",
+      "address": "Svobody Avenue 1, Lviv",
+      "coordinates": {
+        "lat": 49.8419,
+        "lng": 24.0315
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nice Gadgets Lviv - Forum Lviv",
+      "address": "Pid Dubom Street 7B, Lviv (Forum Lviv)",
+      "coordinates": {
+        "lat": 49.8496,
+        "lng": 24.0220
+      }
+    },
+    {
+      "id": 5,
+      "name": "Nice Gadgets Kharkiv",
+      "address": "Sumska Street 72, Kharkiv",
+      "coordinates": {
+        "lat": 49.9902,
+        "lng": 36.2304
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nice Gadgets Kharkiv - Naukova",
+      "address": "Nauky Avenue 27, Kharkiv",
+      "coordinates": {
+        "lat": 50.0050,
+        "lng": 36.2256
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nice Gadgets Odesa",
+      "address": "Derybasivska Street 14, Odesa",
+      "coordinates": {
+        "lat": 46.4825,
+        "lng": 30.7233
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nice Gadgets Odesa - Gagarinn Plaza",
+      "address": "Henuezka Street 5, Odesa (Gagarinn Plaza)",
+      "coordinates": {
+        "lat": 46.4306,
+        "lng": 30.7590
+      }
+    },
+    {
+      "id": 9,
+      "name": "Nice Gadgets Dnipro",
+      "address": "Yavornytskoho Avenue 52, Dnipro",
+      "coordinates": {
+        "lat": 48.4647,
+        "lng": 35.0462
+      }
+    },
+    {
+      "id": 10,
+      "name": "Nice Gadgets Dnipro - Most City",
+      "address": "Yavornytskoho Avenue 50, Dnipro (Most City Center)",
+      "coordinates": {
+        "lat": 48.4663,
+        "lng": 35.0418
+      }
+    },
+    {
+      "id": 11,
+      "name": "Nice Gadgets Zaporizhzhia",
+      "address": "Sobornyi Avenue 186, Zaporizhzhia",
+      "coordinates": {
+        "lat": 47.8388,
+        "lng": 35.1396
+      }
+    },
+    {
+      "id": 12,
+      "name": "Nice Gadgets Vinnytsia",
+      "address": "Soborna Street 34, Vinnytsia",
+      "coordinates": {
+        "lat": 49.2328,
+        "lng": 28.4682
+      }
+    },
+    {
+      "id": 13,
+      "name": "Nice Gadgets Poltava",
+      "address": "Sobornosti Street 24, Poltava",
+      "coordinates": {
+        "lat": 49.5883,
+        "lng": 34.5514
+      }
+    },
+    {
+      "id": 14,
+      "name": "Nice Gadgets Chernihiv",
+      "address": "Peremohy Avenue 87, Chernihiv",
+      "coordinates": {
+        "lat": 51.5037,
+        "lng": 31.2946
+      }
+    },
+    {
+      "id": 15,
+      "name": "Nice Gadgets Ivano-Frankivsk",
+      "address": "Nezalezhnosti Street 40, Ivano-Frankivsk",
+      "coordinates": {
+        "lat": 48.9226,
+        "lng": 24.7111
+      }
+    }
+  ],
+  "translations": [
+    {
+      "id": "en",
+      "data": {
+        "header": {
+          "home": "Home",
+          "phones": "Phones",
+          "tablets": "Tablets",
+          "accessories": "Accessories"
+        },
+        "footer": {
+          "github": "GitHub",
+          "contacts": "Contacts",
+          "rights": "Rights",
+          "backToTop": "Back to top"
+        },
+        "homePage": {
+          "title": "Welcome to Nice Gadgets store!",
+          "newModels": "Brand new models",
+          "categories": "Shop by category",
+          "hotPrices": "Hot prices"
+        },
+        "categoryPage": {
+          "models": "models",
+          "sortBy": "Sort by",
+          "itemsOnPage": "Items on page"
+        }
+      }
+    },
+    {
+      "id": "uk",
+      "data": {
+        "header": {
+          "home": "Головна",
+          "phones": "Телефони",
+          "tablets": "Планшети",
+          "accessories": "Аксесуари"
+        },
+        "footer": {
+          "github": "GitHub",
+          "contacts": "Контакти",
+          "rights": "Права",
+          "backToTop": "Нагору"
+        },
+        "homePage": {
+          "title": "Ласкаво просимо до магазину Nice Gadgets!",
+          "newModels": "Новинки",
+          "categories": "Категорії",
+          "hotPrices": "Вигідні пропозиції"
+        },
+        "categoryPage": {
+          "models": "моделей",
+          "sortBy": "Сортувати за",
+          "itemsOnPage": "Товарів на сторінці"
+        }
+      }
+    }
+  ]
 }
