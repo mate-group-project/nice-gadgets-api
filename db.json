@@ -31,8 +31,8 @@
           "uk": "Новий iPhone вже чекає на вас"
         },
         "button": {
-          "en": "Замовити зараз",
-          "uk": "Order now"
+          "en": "Order now",
+          "uk": "Замовити зараз"
         },
         "video": "/video/phones.mp4"
       },
@@ -20787,13 +20787,14 @@
           "title": "Cart",
           "orderSummary": "Order Summary",
           "totalFor": "Total for",
+          "items": "items",
           "checkout": "Checkout"
         },
         "checkout": {
           "title": "Checkout",
           "contactInformation": "Contact information",
           "firstName": "First name",
-          "lastName": "Lasr name",
+          "lastName": "Last name",
           "email": "Email",
           "phone": "Phone",
           "delivery": "Delivery method",
@@ -20945,6 +20946,7 @@
           "title": "Кошик",
           "orderSummary": "Підсумок замовлення",
           "totalFor": "Разом за",
+          "items": "товарів",
           "checkout": "Оформити замовлення"
         },
         "checkout": {
