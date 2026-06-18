@@ -20655,24 +20655,154 @@
         "footer": {
           "github": "GitHub",
           "contacts": "Contacts",
+          "about": "About",
           "rights": "Rights",
           "backToTop": "Back to top"
         },
         "homePage": {
           "title": "Welcome to Nice Gadgets store!",
+          "orderNow": "Order now",
           "newModels": "Brand new models",
           "categories": "Shop by category",
+          "categoriesTitle": {
+            "phones": "Mobile phones",
+            "tablets": "Tablets",
+            "accessories": "Accessories"
+          },
+          "models": "models",
           "hotPrices": "Hot prices"
         },
         "categoryPage": {
+          "categoriesTitle": {
+            "phones": "Mobile phones",
+            "tablets": "Tablets",
+            "accessories": "Accessories"
+          },
           "models": "models",
           "sortBy": "Sort by",
-          "itemsOnPage": "Items on page"
+          "itemsOnPage": "Items on page",
+          "newest": "Newest",
+          "alphabetically": "Alphabetically",
+          "cheapest": "Cheapest",
+          "discount": "Biggest discount"
+        },
+        "favoritesPage": {
+          "title": "Favourites",
+          "items": "items"
+        },
+        "product": {
+          "colors": "Available colors",
+          "selectCapacity": "Select capacity",
+          "addToCart": "Add to cart",
+          "addedToCart": "Added to cart",
+          "goToCart": "Go to cart",
+          "about": "About",
+          "techSpecs": "Tech specs",
+          "screen": "Screen",
+          "resolution": "Resolution",
+          "processor": "Processor",
+          "ram": "RAM",
+          "memory": "Built in memory",
+          "camera": "Camera",
+          "zoom": "Zoom",
+          "cell": "Cell",
+          "mayAlsoLike": "You may also like"
+        },
+        "cart": {
+          "title": "Cart",
+          "orderSummary": "Order Summary",
+          "totalFor": "Total for",
+          "checkout": "Checkout"
+        },
+        "checkout": {
+          "title": "Checkout",
+          "contactInformation": "Contact information",
+          "firstName": "First name",
+          "lastName": "Lasr name",
+          "email": "Email",
+          "phone": "Phone",
+          "delivery": "Delivery method",
+          "pickup": "Pickup (store)",
+          "selectStore": "Select store",
+          "novaPoshta": "Nova Poshta delivery",
+          "city": "Search city",
+          "warehouse": "Search Warehouse",
+          "placeOrder": "Place order",
+          "successMessage": "Order placed successfully",
+          "back": "Back to shopping"
+        },
+        "login": {
+          "signIn": "Sign In",
+          "login": "Log in",
+          "register": "Register",
+          "name": "Name",
+          "email": "Email",
+          "password": "Password",
+          "confirmPassword": "Confirm Password",
+          "dontHaveAccount": "Don't have an account?",
+          "haveAccount": "Already have an account?",
+          "createAccount": "Create an Account"
+        },
+        "profile": {
+          "myProfile": "My profile",
+          "logOut": "Log out",
+          "hi": "Hi,",
+          "firstName": "First name",
+          "lastName": "Lasr name",
+          "email": "Email",
+          "phone": "Phone",
+          "ordersHistory": "Orders History",
+          "changePassword": "Change password",
+          "oldPassword": "Old password",
+          "newPassword": "New password",
+          "newPasswordRepeat": "Repeat new password",
+          "save": "Save changes"
+        },
+        "about": {
+          "title": "About us",
+          "p1": {
+            "title": "Small dreams and grand plans",
+            "text": "Nice Gadgets is the largest online store of Apple gadgets in the country. Since 2005, we have been making small dreams and grand plans of millions of people come true. You can find literally all Apple smartphones, tablets and accessories here. We sell at a fair price and provide a guarantee, because we believe that online shopping should be as convenient and safe as possible. And every time someone clicks \"Buy\", we understand that we are doing the right thing."
+          },
+          "p2": {
+            "title": "Our goal is to be useful",
+            "text": "We believe that gadgets exist to make life easier, more enjoyable and kinder. Therefore, the search for the right gadget should be fast, convenient and enjoyable. We don't just sell smartphones, tablets and accessories. We help you find exactly what you need, in one place and without unnecessary worries, so that you don't waste your life searching, but simply live happily. Nice Gadgets is a universal answer to any request, the beginning and end of the search, a real assistant. We forever save our customers from unpleasant compromises, fulfill desires and allow them to dream bolder. Thanks to smart search and honest service, we make our customers' lives a little better right now."
+          },
+          "p3": {
+            "title": "Happiness starts with simple things",
+            "text": "And we help you find these things: we tell lovers how to surprise each other; we motivate sports people to never give up and progress faster; we give homeowners the opportunity to create real comfort. We want you to know what you are looking for and be able to justify your choice. To do this, we shoot video reviews, write articles, and track new products."
+          },
+          "p4": {
+            "title": "So that dreams come true easily",
+            "text": "We open huge offline stores so you can come in, hold in your hands and test the product you like. We want to have the best service in the world, so we train our employees not only in the technical part of the business, but also in working with the customer."
+          },
+          "years": "years on the market",
+          "shops": "open shops",
+          "employees": "employees",
+          "cities": "cities in Ukraine",
+          "p5": {
+            "title": "Convenient delivery",
+            "text": "And of course, any product can be ordered with delivery. We deliver orders in Kyiv within one day, and in Ukraine - the next day. Everything - without prepayment, if necessary - on credit. Payment in cash or non-cash - as you prefer."
+          },
+          "p6": {
+            "title": "Then - more",
+            "text": "We want our customers to never have to wonder where to find something they need."
+          },
+          "p7": {
+            "title": "We are waiting for you here"
+          },
+          "points": "Pickup points"
+        },
+        "rights": {
+          "p1": "All rights reserved. All content on this website, including but not limited to text, images, graphics, logos, and design, is the exclusive property of Nice Gadgets and is protected by international copyright law.",
+          "p2": "Unauthorized reproduction, distribution, or use of any content from this website is strictly prohibited without prior written permission from Nice Gadgets.",
+          "p3": "All product names, logos, and brands are property of their respective owners. All company, product, and service names used on this website are for identification purposes only.",
+          "p4": "For permissions and inquiries, please contact us at legal@nicegadgets.com"
         }
       }
     },
     {
-      "id": "uk",
+      "id": "ua",
       "data": {
         "header": {
           "home": "Головна",
@@ -20683,19 +20813,149 @@
         "footer": {
           "github": "GitHub",
           "contacts": "Контакти",
-          "rights": "Права",
+          "about": "Про нас",
+          "rights": "Усі права захищено",
           "backToTop": "Нагору"
         },
         "homePage": {
           "title": "Ласкаво просимо до магазину Nice Gadgets!",
-          "newModels": "Новинки",
-          "categories": "Категорії",
-          "hotPrices": "Вигідні пропозиції"
+          "orderNow": "Замовити зараз",
+          "newModels": "Нові моделі",
+          "categories": "Обирайте за категорією",
+          "categoriesTitle": {
+            "phones": "Мобільні телефони",
+            "tablets": "Планшети",
+            "accessories": "Аксесуари"
+          },
+          "models": "моделей",
+          "hotPrices": "Гарячі пропозиції"
         },
         "categoryPage": {
+          "categoriesTitle": {
+            "phones": "Мобільні телефони",
+            "tablets": "Планшети",
+            "accessories": "Аксесуари"
+          },
           "models": "моделей",
           "sortBy": "Сортувати за",
-          "itemsOnPage": "Товарів на сторінці"
+          "itemsOnPage": "Товарів на сторінці",
+          "newest": "Спочатку нові",
+          "alphabetically": "За алфавітом",
+          "cheapest": "Спочатку дешеві",
+          "discount": "Найбільша знижка"
+        },
+        "favoritesPage": {
+          "title": "Обране",
+          "items": "товарів"
+        },
+        "product": {
+          "colors": "Доступні кольори",
+          "selectCapacity": "Оберіть обсяг пам'яті",
+          "addToCart": "Додати в кошик",
+          "addedToCart": "Додано до кошика",
+          "goToCart": "Перейти до кошика",
+          "about": "Про товар",
+          "techSpecs": "Технічні характеристики",
+          "screen": "Екран",
+          "resolution": "Роздільна здатність",
+          "processor": "Процесор",
+          "ram": "Оперативна пам'ять",
+          "memory": "Вбудована пам'ять",
+          "camera": "Камера",
+          "zoom": "Зум",
+          "cell": "Мережа",
+          "mayAlsoLike": "Вам також може сподобатися"
+        },
+        "cart": {
+          "title": "Кошик",
+          "orderSummary": "Підсумок замовлення",
+          "totalFor": "Разом за",
+          "checkout": "Оформити замовлення"
+        },
+        "checkout": {
+          "title": "Оформлення замовлення",
+          "contactInformation": "Контактна інформація",
+          "firstName": "Ім'я",
+          "lastName": "Прізвище",
+          "email": "Електронна пошта",
+          "phone": "Телефон",
+          "delivery": "Спосіб доставки",
+          "pickup": "Самовивіз (магазин)",
+          "selectStore": "Оберіть магазин",
+          "novaPoshta": "Доставка Новою Поштою",
+          "city": "Пошук міста",
+          "warehouse": "Пошук відділення",
+          "placeOrder": "Оформити замовлення",
+          "successMessage": "Замовлення успішно оформлено",
+          "back": "Повернутися до покупок"
+        },
+        "login": {
+          "signIn": "Увійти",
+          "login": "Вхід",
+          "register": "Реєстрація",
+          "name": "Ім'я",
+          "email": "Електронна пошта",
+          "password": "Пароль",
+          "confirmPassword": "Підтвердіть пароль",
+          "dontHaveAccount": "Ще не маєте акаунта?",
+          "haveAccount": "Вже маєте акаунт?",
+          "createAccount": "Створити акаунт"
+        },
+        "profile": {
+          "myProfile": "Мій профіль",
+          "logOut": "Вийти",
+          "hi": "Привіт,",
+          "firstName": "Ім'я",
+          "lastName": "Прізвище",
+          "email": "Електронна пошта",
+          "phone": "Телефон",
+          "ordersHistory": "Історія замовлень",
+          "changePassword": "Змінити пароль",
+          "oldPassword": "Старий пароль",
+          "newPassword": "Новий пароль",
+          "newPasswordRepeat": "Повторіть новий пароль",
+          "save": "Зберегти зміни"
+        },
+        "about": {
+          "title": "Про нас",
+          "p1": {
+            "title": "Маленькі мрії та великі плани",
+            "text": "Nice Gadgets — найбільший онлайн-магазин гаджетів Apple у країні. З 2005 року ми допомагаємо мільйонам людей здійснювати маленькі мрії та реалізовувати великі плани. У нас ви знайдете практично всі смартфони, планшети та аксесуари Apple. Ми пропонуємо чесні ціни та офіційну гарантію, адже віримо, що онлайн-шопінг має бути максимально зручним і безпечним. І щоразу, коли хтось натискає кнопку «Купити», ми розуміємо, що робимо все правильно."
+          },
+          "p2": {
+            "title": "Наша мета — бути корисними",
+            "text": "Ми віримо, що гаджети створені для того, щоб робити життя простішим, приємнішим і комфортнішим. Саме тому пошук потрібного пристрою має бути швидким, зручним і приносити задоволення. Ми не просто продаємо смартфони, планшети та аксесуари. Ми допомагаємо знайти саме те, що вам потрібно, в одному місці та без зайвих турбот. Щоб ви не витрачали час на пошуки, а просто насолоджувалися життям. Nice Gadgets — це універсальна відповідь на будь-який запит, справжній помічник у світі технологій. Ми допомагаємо уникати неприємних компромісів, здійснювати бажання та сміливіше мріяти. Завдяки зручному пошуку та чесному сервісу ми робимо життя наших клієнтів трохи кращим вже сьогодні."
+          },
+          "p3": {
+            "title": "Щастя починається з простих речей",
+            "text": "І ми допомагаємо знаходити ці речі: підказуємо закоханим, як приємно здивувати одне одного; мотивуємо спортсменів не здаватися та досягати більшого; допомагаємо створювати справжній затишок удома. Ми хочемо, щоб ви точно знали, що шукаєте, і були впевнені у своєму виборі. Саме тому ми створюємо відеоогляди, пишемо корисні статті та стежимо за всіма новинками."
+          },
+          "p4": {
+            "title": "Щоб мрії здійснювалися легко",
+            "text": "Ми відкриваємо великі офлайн-магазини, де ви можете особисто побачити, потримати в руках і протестувати товар, який вам сподобався. Ми прагнемо надавати сервіс світового рівня, тому навчаємо наших співробітників не лише технічним аспектам роботи, а й якісній взаємодії з клієнтами."
+          },
+          "years": "років на ринку",
+          "shops": "відкритих магазинів",
+          "employees": "співробітників",
+          "cities": "міст України",
+          "p5": {
+            "title": "Зручна доставка",
+            "text": "І, звичайно, будь-який товар можна замовити з доставкою. У Києві ми доставляємо замовлення протягом одного дня, а по Україні — вже наступного дня. Без передоплати, а за потреби — навіть у кредит. Оплата готівкою або безготівковим розрахунком — як вам зручно."
+          },
+          "p6": {
+            "title": "Далі — більше",
+            "text": "Ми прагнемо, щоб нашим клієнтам ніколи не доводилося замислюватися над тим, де знайти потрібну річ."
+          },
+          "p7": {
+            "title": "Чекаємо на вас тут"
+          },
+          "points": "Пункти самовивозу"
+        },
+        "rights": {
+          "p1": "Усі права захищено. Увесь вміст цього вебсайту, включно з текстами, зображеннями, графікою, логотипами та дизайном, є виключною власністю Nice Gadgets і захищений міжнародним законодавством про авторське право.",
+          "p2": "Будь-яке несанкціоноване копіювання, розповсюдження або використання матеріалів цього вебсайту суворо заборонено без попереднього письмового дозволу Nice Gadgets.",
+          "p3": "Усі назви продуктів, логотипи та торгові марки належать їхнім відповідним власникам. Усі назви компаній, продуктів і сервісів використовуються виключно з інформаційною та ідентифікаційною метою.",
+          "p4": "З питань отримання дозволів або юридичних запитів звертайтеся за адресою: legal@nicegadgets.com"
         }
       }
     }
