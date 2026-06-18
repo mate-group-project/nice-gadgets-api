@@ -19,6 +19,81 @@
       "image": "img/category-accessories.png"
     }
   ],
+  "home": {
+    "slides": [
+      {
+        "title": {
+          "en": "More than a smartphone",
+          "uk": "Більше, ніж смартфон"
+        },
+        "text": {
+          "en": "The new iPhone is waiting for you",
+          "uk": "Новий iPhone вже чекає на вас"
+        },
+        "button": {
+          "en": "Замовити зараз",
+          "uk": "Order now"
+        },
+        "video": "/video/phones.mp4"
+      },
+      {
+        "title": {
+          "en": "Designed to impress",
+          "uk": "Створений дивувати"
+        },
+        "text": {
+          "en": "Power you'll feel from the very first touch",
+          "uk": "Потужність, яку відчуваєш з першого дотику"
+        },
+        "button": {
+          "en": "Learn more",
+          "uk": "Дізнатись більше"
+        },
+        "video": "/video/tablets.mp4"
+      },
+      {
+        "title": {
+          "en": "Technology for everyday life",
+          "uk": "Технології для життя"
+        },
+        "text": {
+          "en": "Choose gadgets that inspire you every day",
+          "uk": "Обирайте гаджети, які надихають щодня"
+        },
+        "button": {
+          "en": "Explore catalog",
+          "uk": "Переглянути каталог"
+        },
+        "video": "/video/accessories.mp4"
+      }
+    ],
+    "categories": [
+      {
+        "name": "phones",
+        "title": {
+          "en": "Mobile phones",
+          "uk": "Мобільні телефони"
+        },
+        "image": "img/category-phones.png"
+      },
+      {
+        "name": "tablets",
+        "title": {
+          "en": "Tablets",
+          "uk": "Планшети"
+        },
+        "image": "img/category-tablets.png"
+      },
+      {
+        "name": "accessories",
+        "title": {
+          "en": "Accessories",
+          "uk": "Аксесуари"
+        },
+        "image": "img/category-accessories.png"
+      }
+    ]
+  },
   "products": [
     {
       "id": "apple-iphone-7-32gb-black",
